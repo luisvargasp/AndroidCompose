@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96808846931",
+    "project_id": "readerappcompose-dd6e0",
+    "storage_bucket": "readerappcompose-dd6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96808846931:android:2f73ee36a205850ec768a6",
+        "android_client_info": {
+          "package_name": "com.example.jetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LsDSxFURkppIbgOJRJCLsUZpblIOkak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
